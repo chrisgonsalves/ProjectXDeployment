@@ -2,7 +2,7 @@
 
 GIT_BIN=/usr/local/git/bin/git
 TOMCAT_HOME=/usr/local/apache-tomcat-7.0.61
-BUILD_DIR=$HOME/Projects1
+BUILD_DIR=$HOME/ProjectsX
 PROJECT_GIT=https://github.com/chrisgonsalves/ProjectXServingSystem.git
 MVN_BIN=/usr/bin/mvn
 GIT_PATH=https://github.com/chrisgonsalves/ProjectXServingSystem.git
